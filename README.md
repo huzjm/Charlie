@@ -8,4 +8,4 @@ This project is a parking lot simulator developed using Processing. The simulato
 - Visualization of parking lot status
 
 ## Technologies Used
-- **Language:** Java
+- **Language:** Processing
